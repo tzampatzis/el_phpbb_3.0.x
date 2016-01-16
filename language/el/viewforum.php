@@ -50,7 +50,6 @@ $lang = array_merge($lang, array(
 	'LOGIN_NOTIFY_FORUM'	=> 'Έχετε ειδοποιηθεί για αυτή την Δ. Συζήτηση παρακαλώ συνδεθείτε για να δείτε αυτό.',
 
 	'MARK_TOPICS_READ'		=> 'Σημειώστε τις Θ. Ενότητες αναγνωσμένες ',
-	'MOVED_TOPIC'			=> 'Μετακίνηση Θέματος',
 
 	'NEW_POSTS_HOT'			=> 'Νέες δημοσιεύσεις [ Κορυφαίο Θέμα ]', // Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'Νέες δημοσιεύσεις [ Κλειδωμένο ]', // Not used anymore

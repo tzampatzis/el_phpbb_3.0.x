@@ -61,7 +61,7 @@ $lang = array_merge($lang, array(
 	'EMAIL_TOPIC'			=> 'Ηλεκτρονικό ταχυδρομείο σε έναν φίλο',
 	'ERROR_NO_ATTACHMENT'	=> 'Το επιλεγμένο συνημμένο δεν υπάρχει πλέον',
 
-	'FILE_NOT_FOUND_404'	=> 'Το αρχείο <b>%s</b> δεν υπάρχει.',
+	'FILE_NOT_FOUND_404'	=> 'Το αρχείο <strong>%s</strong> δεν υπάρχει.',
 	'FULL_EDITOR'			=> 'Ολόκληρος επεξεργαστής',
 	
 	'FORK_TOPIC'			=> 'Αντιγραφή Θέματος',
@@ -74,9 +74,9 @@ $lang = array_merge($lang, array(
 	'MAKE_GLOBAL'			=> 'Κάνετε Γενική',
 	'MAKE_NORMAL'			=> 'Κάνετε κανονική',
 	'MAKE_STICKY'			=> 'Κάνετε Σημείωση',
-	'MAX_OPTIONS_SELECT'	=> 'Μπορείτε να επιλέξετε μέχρι <b>%d</b>  επιλογές',
-	'MAX_OPTION_SELECT'		=> 'Μπορείτε να επιλέξετε <b>1</b>  επιλογή',
-	'MISSING_INLINE_ATTACHMENT'	=> 'Το συνημμένο <b>%s</b> δεν είναι άλλο διαθέσιμο',
+	'MAX_OPTIONS_SELECT'	=> 'Μπορείτε να επιλέξετε μέχρι <strong>%d</strong> επιλογές',
+	'MAX_OPTION_SELECT'		=> 'Μπορείτε να επιλέξετε <strong>1</strong>  επιλογή',
+	'MISSING_INLINE_ATTACHMENT'	=> 'Το συνημμένο <strong>%s</strong> δεν είναι άλλο διαθέσιμο',
 	'MOVE_TOPIC'			=> 'Μετακίνηση Θέματος',
 
 	'NO_ATTACHMENT_SELECTED'=> 'Έχετε επιλέξει να δείτε ή να μεταφορτώσετε ένα συνημμένο.',

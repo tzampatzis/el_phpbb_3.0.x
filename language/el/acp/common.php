@@ -250,7 +250,6 @@ $lang = array_merge($lang, array(
 	'LOOK_UP_FORUM'			=> 'Επιλέξτε μια Δ. Συζήτηση',
 	'LOOK_UP_FORUMS_EXPLAIN'=> 'Μπορείτε να επιλέξετε πάνω από μια Δ. Συζήτηση.',
 
-	'LOGIN_REDIRECT'		=> 'Έχετε συνδεθεί επιτυχώς.',
 	'MANAGE'				=> 'Διαχείριση',
 	'MENU_TOGGLE'			=> 'Απόκρυψη ή εμφάνιση πλάγιου μενού',
 	'MOVE_DOWN'				=> 'Μετακίνηση κάτω',
@@ -470,7 +469,7 @@ $lang = array_merge($lang, array(
 	'LOG_ADMIN_AUTH_SUCCESS'	=> '<strong>Επιτυχημένη σύνδεση Διαχειριστή</strong>',
 
 	'LOG_ATTACH_EXT_ADD'		=> '<strong>Προσθέστε ή επεξεργαστείτε επέκταση συνημμένου</strong><br />» %s',
-	'LOG_ATTACHMENTS_DELETED'	=> '<strong>Διαγράφηκαν συνημμένα μέλους</strong><br>» %s',	
+	'LOG_ATTACHMENTS_DELETED'	=> '<strong>Διαγράφηκαν συνημμένα μέλους</strong><br />» %s',	
 	'LOG_ATTACH_EXT_DEL'		=> '<strong>Διαγράψτε επέκταση συνημμένου</strong><br />» %s',
 	'LOG_ATTACH_EXT_UPDATE'		=> '<strong>Φορτώστε επέκταση συνημμένου</strong><br />» %s',
 	'LOG_ATTACH_EXTGROUP_ADD'	=> '<strong>Προσθέστε επέκταση ομάδας</strong><br />» %s',
